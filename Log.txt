@@ -1,0 +1,318 @@
+2020-04-10 00h06m | ERROR IN CSV EDIT
+2020-04-10 00h06m | ERROR IN CSV EDIT
+2020-04-10 00h08m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-10 00h16m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-10 00h21m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-10 18h45m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/2020-04-10 18h23m CSV SEARCH.csv
+2020-04-10 19h24m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-10 20h04m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-12 20h40m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-12 20h59m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 16h51m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 17h05m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 17h11m | EDITED single item with SKU = KB-LKAS-VADD
+2020-04-14 17h13m | EDITED single item with SKU = KB-LKAS-VADD
+2020-04-14 17h14m | EDITED single item with SKU = KB-LKAS-VADD
+2020-04-14 17h19m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 17h23m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 17h53m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 18h17m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 18h25m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-14 18h32m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-15 18h12m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-04-15 17h56m CSV SEARCH.csv
+2020-04-15 18h21m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-15 18h35m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-15 19h48m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-04-15 18h41m CSV export.csv
+2020-04-15 20h09m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-04-15 19h51m CSV SEARCH.csv
+2020-04-15 20h12m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-15 20h21m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-15 20h59m | EDITED BY CSV D:/Googledrive/Inventory/update.csv
+2020-04-15 21h41m | EDITED single item with SKU = SW-R4MC-1RXH
+2020-04-15 21h42m | EDITED single item with SKU = SW-R4MC-1RXH
+2020-04-15 21h44m | EDITED BY CSV D:/Googledrive/Inventory/update.csv
+2020-04-15 22h20m | ERROR IN CSV EDIT
+2020-04-15 22h22m | EDITED BY CSV D:/Googledrive/Inventory/update2.csv
+2020-04-18 16h55m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-20 15h44m | EDITED single item with SKU = Same BRAND MPN for 2 different items
+2020-04-20 15h45m | EDITED single item with SKU = Same BRAND MPN for 2 different items
+2020-04-21 17h50m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-21 17h55m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-25 16h05m | EDITED single item with SKU = Wrong Item
+2020-04-25 16h06m | EDITED single item with SKU = Wrong Item
+2020-04-25 23h24m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-26 00h08m | ERROR IN CSV EDIT
+2020-04-26 14h59m | EDITED single item with SKU = should be deleted from database
+2020-04-26 14h59m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h02m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h11m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h25m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h28m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h30m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h32m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h33m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h34m | EDITED single item with SKU = should be deleted from database
+2020-04-26 15h38m | EDITED single item with SKU = should be deleted from database
+2020-04-27 11h48m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-27 14h43m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-04-28 15h00m | EDITED single item with SKU = 03-ZUA8-XHUP
+2020-04-28 15h01m | EDITED single item with SKU = 03-ZUA8-XHUP
+2020-04-28 15h12m | EDITED single item with SKU = 03-ZUA8-XHUP
+2020-04-28 15h22m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-04-28 15h21m CSV SEARCH.csv
+2020-04-28 15h27m | EDITED single item with SKU = Wrong Item
+2020-04-28 15h27m | EDITED single item with SKU = Wrong Item
+2020-04-28 15h27m | EDITED single item with SKU = Wrong Item
+2020-04-29 22h29m | EDITED single item with SKU = Wrong Item
+2020-04-29 22h38m | EDITED single item with SKU = Wrong Item
+2020-04-30 18h14m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-01 14h56m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-01 14h49m CSV export.csv
+2020-05-01 14h58m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-01 14h49m CSV export.csv
+2020-05-01 18h39m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-01 19h02m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-01 19h03m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-02 15h45m | EDITED BY CSV C:/Users/Sekirata/Google Drive/UiPath/New folder/Filter_Output PC7.csv
+2020-05-02 15h45m | EDITED BY CSV C:/Users/Sekirata/Google Drive/UiPath/New folder/Filter_Output PC8.csv
+2020-05-02 15h56m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-02 15h55m CSV SEARCH.csv
+2020-05-02 23h52m | EDITED single item with SKU = XB-NH6E-2YOA
+2020-05-02 23h53m | EDITED single item with SKU = Manufacturer
+2020-05-02 23h53m | EDITED single item with SKU = Manufacturer
+2020-05-03 01h04m | EDITED single item with SKU = L9-NN72-CIWB
+2020-05-03 01h27m | EDITED single item with SKU = TT-HI4D-YZII
+2020-05-03 01h31m | EDITED single item with SKU = LL-N15B-9X2A
+2020-05-03 01h46m | EDITED single item with SKU = K5-Q5H1-8BIV
+2020-05-03 02h09m | EDITED single item with SKU = YE-UZXM-KOWR
+2020-05-03 02h16m | EDITED single item with SKU = 1I-UE3S-8RT7
+2020-05-03 16h11m | EDITED single item with SKU = 1I-UE3S-8RT7
+2020-05-03 16h14m | EDITED single item with SKU = K5-Q5H1-8BIV
+2020-05-03 16h21m | EDITED single item with SKU = Wrong Item
+2020-05-03 16h22m | EDITED single item with SKU = Wrong Item
+2020-05-03 16h23m | EDITED single item with SKU = Wrong Item
+2020-05-03 16h24m | EDITED single item with SKU = Wrong Item
+2020-05-03 16h25m | EDITED single item with SKU = Wrong Item
+2020-05-03 16h26m | EDITED single item with SKU = Wrong Item
+2020-05-04 14h33m | EDITED single item with SKU = 26-AWXB-5Y9B
+2020-05-04 14h35m | EDITED single item with SKU = 26-AWXB-5Y9B
+2020-05-04 17h27m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-04 17h44m | EDITED single item with SKU = T8-ABEA-3QZR
+2020-05-04 17h50m | EDITED single item with SKU = GL-N042-DD9F
+2020-05-04 17h58m | EDITED single item with SKU = Wrong Item
+2020-05-04 18h00m | EDITED single item with SKU = Wrong Item
+2020-05-04 18h20m | EDITED single item with SKU = W3-GB9M-36WU
+2020-05-04 18h20m | EDITED single item with SKU = Wrong Item
+2020-05-04 18h21m | EDITED single item with SKU = XL-80FG-F4YM
+2020-05-04 18h22m | EDITED single item with SKU = XL-80FG-F4YM
+2020-05-06 14h19m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-06 14h10m CSV SEARCH.csv
+2020-05-06 14h32m | EDITED BY CSV C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-06 15h52m | EDITED single item with SKU = 26-AWXB-5Y9B
+2020-05-06 15h52m | EDITED single item with SKU = 26-AWXB-5Y9B
+2020-05-08 15h35m | EDITED single item with SKU = Amazon Redirect issue
+2020-05-08 18h04m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-08 18h20m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-08 18h25m | CSV UPLOADED C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-09 06h57m | EDITED single item with SKU = YI-0EDD-P3MS
+2020-05-11 17h30m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-11 17h27m CSV SEARCH.csv
+2020-05-11 17h33m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-11 17h32m CSV SEARCH.csv
+2020-05-11 18h01m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-11 18h01m CSV export.csv
+2020-05-11 18h59m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-11 19h08m | CSV UPLOADED C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-11 19h09m | CSV UPLOADED C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Shipping n Packaging - DIDO/notComp_DB.csv
+2020-05-11 19h34m | EDITED BY CSV D:/Googledrive/Inventory/all items.csv
+2020-05-11 20h15m | EDITED single item with SKU = 03-ZUA8-XHUP
+2020-05-11 20h15m | EDITED single item with SKU = 03-ZUA8-XHUP
+2020-05-12 16h38m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-12 18h26m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-12 18h59m | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-13 15h01m | EDITED single item with SKU = 03-ZUA8-XHUP
+2020-05-13 15h01m | EDITED single item with SKU = 03-ZUA8-XHUP
+2020-05-13 15h05m | EDITED single item with SKU = 04-ITPR-VJYZ
+2020-05-13 15h16m | EDITED single item with SKU = 04-ITPR-VJYZ
+2020-05-13 15h17m | EDITED single item with SKU = WN-0RBJ-FFAZ
+2020-05-13 15h17m | EDITED single item with SKU = MB-LN6H-OBFX
+2020-05-13 15h17m | EDITED single item with SKU = CB-G7MI-8MK0
+2020-05-13 15h17m | EDITED single item with SKU = 13-8DE7-RL2A
+2020-05-13 15h17m | EDITED single item with SKU = LL-UPRQ-DZDU
+2020-05-13 15h17m | EDITED single item with SKU = 7O-PWZ4-31L7
+2020-05-13 16h33m | EDITED single item with SKU = Wrong Item
+2020-05-13 16h33m | EDITED single item with SKU = Wrong Item
+2020-05-13 16h33m | EDITED single item with SKU = Wrong Item
+2020-05-13 17h07m | CSV UPLOADED C:/Users/CoilingDragon/Downloads/SchemaExcel.csv
+2020-05-13 17h16m | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Abrasives n Welding - Marto/4000- END/output/notComp_DB.csv
+2020-05-13 18h32m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-13 18h32m CSV SEARCH.csv
+2020-05-13 18h32m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-14 16h48m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-14 16h48m CSV SEARCH.csv
+2020-05-14 16h48m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-14 17h54m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-15 14h40m | EDITED single SKU = Wrong Item, ASIN = B004N84D1W
+2020-05-15 18h02m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-15 18h02m CSV SEARCH.csv
+2020-05-16 16h20m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-16 16h46m | EDITED BY CSV C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-17 23h32m | EDITED single SKU = Wrong Item, ASIN = B003SWY8L4
+2020-05-18 17h09m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-18 17h09m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v6/SchemaExcel.csv
+2020-05-18 23h25m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-18 23h25m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-18 23h25m | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Janitorial grounds - FINALY DONE/notComp_DB.csv
+2020-05-18 23h25m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-18 23h25m | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v6/SchemaExcel.csv
+2020-05-18 23h25m | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Material Handling Storage - DONE/output/notComp_DB.csv
+2020-05-19 16h25m | ERROR IN CSV EDIT---->list index out of range
+2020-05-19 16h25m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-19 16h25m CSV SEARCH.csv
+2020-05-19 17h03m | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-19 17h03m CSV SEARCH.csv
+2020-05-20 16h40m53s | EDITED single SKU = Wrong Item, ASIN = B07FZ26J26
+2020-05-20 16h49m17s | EDITED single SKU = SV-F5LP-8OU7, ASIN = B014V4LJWS
+2020-05-20 16h49m52s | EDITED single SKU = VW-MZIS-NGK7, ASIN = B015U4Y7HW
+2020-05-20 16h57m44s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-20 16h51m56s CSV export.csv
+2020-05-20 17h12m55s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-20 17h10m43s CSV export.csv
+2020-05-20 17h38m30s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-20 17h36m03s CSV SEARCH.csv
+2020-05-20 18h08m26s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-20 18h07m12s CSV export.csv
+2020-05-20 18h42m22s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-20 18h42m02s CSV export.csv
+2020-05-21 13h54m47s | EDITED single SKU = Z3-YDDX-HVLS, ASIN = B06Y1VRJ5Q
+2020-05-21 14h03m47s | EDITED single SKU = Y6-2SQ6-GU39, ASIN = B07DQDRX9C
+2020-05-21 14h05m03s | EDITED single SKU = Wrong Item, ASIN = B07DQDRX9C
+2020-05-21 21h35m02s | EDITED single SKU = Wrong Item, ASIN = B00V2LG61I
+2020-05-23 19h02m18s | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v12/SchemaExcel2.csv
+2020-05-23 19h11m11s | EDITED single SKU = OE-OC78-NSHN, ASIN = B071Z2R23R
+2020-05-23 19h24m27s | EDITED BY CSV C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v12/SchemaExcel2.csv
+2020-05-24 23h50m24s | EDITED single SKU = Wrong Item, ASIN = B00IOXM2DI
+2020-05-25 18h51m50s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-25 18h50m28s CSV SEARCH.csv
+2020-05-26 14h13m42s | EDITED single SKU = Wrong Item, ASIN = B00JRH057A
+2020-05-26 14h15m35s | EDITED single SKU = Wrong Item, ASIN = B077F4SQPX
+2020-05-28 17h32m54s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-05-28 17h31m08s CSV SEARCH.csv
+2020-05-29 14h29m16s | EDITED single SKU = Wrong Item, ASIN = B00982YLC4
+2020-05-30 00h01m10s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Safety Equipment - Marto/1 - 5000/notComp_DB.csv
+2020-05-30 00h12m01s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Gloves-Safety-Appeal - stan/1-2500 done/notComp_DB.csv
+2020-05-30 09h52m23s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v12/SchemaExcel2.csv
+2020-05-30 13h22m25s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v12/SchemaExcel2.csv
+2020-05-30 13h28m29s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Electrical & Lighting - DIDO/1-4000 - DIDO/notComp_DB.csv
+2020-06-01 19h28m12s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v12/SchemaExcel2.csv
+2020-06-01 19h29m41s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v12/SchemaExcel2.csv
+2020-06-01 20h29m52s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-01 20h29m28s CSV export.csv
+2020-06-01 20h34m21s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-01 20h32m27s CSV SEARCH.csv
+2020-06-01 21h28m38s | EDITED single SKU = Wrong Item, ASIN = B0831KPH5J
+2020-06-01 21h34m25s | EDITED single SKU = Wrong Item, ASIN = B00527J7CS
+2020-06-02 14h52m00s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-02 14h46m51s CSV SEARCH.csv
+2020-06-02 16h12m10s | EDITED single SKU = W3-GB9M-36WU, ASIN = B0000224PR
+2020-06-02 21h12m44s | EDITED single SKU = Wrong Item, ASIN = B007VR3QLK
+2020-06-03 09h18m55s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-03 09h16m48s CSV SEARCH.csv
+2020-06-03 09h21m13s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-03 09h20m34s CSV SEARCH.csv
+2020-06-03 09h22m38s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-03 09h20m34s CSV SEARCH.csv
+2020-06-03 09h23m08s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-03 09h22m31s CSV export.csv
+2020-06-03 22h25m15s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v12/SchemaExcel2.csv
+2020-06-05 13h30m44s | EDITED single SKU = To be Deleted, ASIN = B00208J60A
+2020-06-05 16h45m58s | EDITED single SKU = Wrong Item, ASIN = B01DGJQXOS
+2020-06-08 17h25m26s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v12/SchemaExcel2.csv
+2020-06-08 17h28m17s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Electrical & Lighting - DIDO/4000-8000 - DIDO/notComp_DB.csv
+2020-06-08 17h50m49s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v12/SchemaExcel2.csv
+2020-06-08 17h51m14s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Machining-Bearings-V-Belts - stan/1-3000 done/output/notComp_DB.csv
+2020-06-08 18h09m08s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Python/Clean Inventory v12/SchemaExcel2.csv
+2020-06-08 18h09m21s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/zoro screenshots/Machining-Bearings-V-Belts - stan/3000-6000 - done/output/notComp_DB.csv
+2020-06-08 23h44m26s | EDITED single SKU = VIP cancels orders, ASIN = B07V7VP92G
+2020-06-08 23h54m20s | EDITED single SKU = Wrong Item, ASIN = B00AU7DIS4
+2020-06-09 17h50m39s | EDITED single SKU = Wrong Item, ASIN = B002JEW2I8
+2020-06-09 17h56m31s | EDITED single SKU = Wrong Item, ASIN = B078741G4V
+2020-06-09 17h57m12s | EDITED single SKU = Closed, ASIN = B081NTCRDF
+2020-06-09 17h57m27s | EDITED single SKU = Wrong Item, ASIN = B081NTCRDF
+2020-06-09 23h59m45s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v12/SchemaExcel2.csv
+2020-06-10 00h00m01s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/Screenshots/zoro screenshots/Electrical & Lighting - DIDO/8000-12000 - DIDO/notComp_DB.csv
+2020-06-10 00h08m29s | CSV UPLOAD successfully - C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v12/SchemaExcel2.csv
+2020-06-10 00h08m40s | CSV UPLOAD successfully - C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/Screenshots/zoro screenshots/Machining-Bearings-V-Belts - stan done/6000-9000 DONE/output/notComp_DB.csv
+2020-06-10 22h38m06s | ERROR IN CSV EDIT---->
+2020-06-10 22h40m16s | ERROR IN CSV EDIT---->
+2020-06-10 22h43m26s | ERROR IN CSV EDIT---->
+2020-06-10 22h44m42s | ERROR IN CSV EDIT---->
+2020-06-10 22h47m06s | ERROR IN CSV EDIT---->list index out of range
+2020-06-10 22h55m57s | MATCHED by csv D:/Googledrive/Inventory/mergerSMALL.csv
+2020-06-10 23h18m50s | ERROR IN CSV EDIT---->
+2020-06-10 23h26m54s | ERROR IN CSV EDIT---->list index out of range
+2020-06-10 23h32m18s | MATCHED by csv D:/Googledrive/Inventory/merger1.csv
+2020-06-10 23h41m42s | EDITED single SKU = Wrong Item, ASIN = B014I0XN0G
+2020-06-10 23h46m39s | MATCHED by csv D:/Googledrive/Inventory/merger1.csv
+2020-06-10 23h46m40s | 
+2020-06-11 00h00m55s | AssertionError ERROR IN CSV EDIT 130,B00KGKAD5G---->
+2020-06-11 00h07m07s | MATCHED by csv D:/Googledrive/Inventory/mergerSMALL.csv
+2020-06-11 00h10m48s | MATCHED by csv D:/Googledrive/Inventory/mergerSMALL.csv
+2020-06-11 00h13m20s | MATCHED by csv D:/Googledrive/Inventory/mergerSMALL.csv
+2020-06-11 00h25m37s | MATCHED by csv D:/Googledrive/Inventory/merger.csv
+2020-06-11 00h30m24s | EDITED BY CSV C:/Users/CoilingDragon/Desktop/2020-06-11 00h29m49s CSV export.csv
+2020-06-11 00h49m36s | EDITED BY CSV C:/Users/CoilingDragon/Desktop/2020-06-11 00h29m49s CSV export.csv
+2020-06-11 00h50m43s | EDITED BY CSV C:/Users/CoilingDragon/Desktop/2020-06-11 00h29m49s CSV export.csv
+2020-06-11 00h51m18s | EDITED BY CSV C:/Users/CoilingDragon/Desktop/2020-06-11 00h29m49s CSV export.csv
+2020-06-11 00h52m57s | EDITED BY CSV C:/Users/CoilingDragon/Desktop/2020-06-11 00h29m49s CSV export.csv
+2020-06-11 00h55m27s | ERROR IN CSV EDIT---->name 'start_time' is not defined
+2020-06-11 00h57m14s | EDITED BY CSV C:/Users/CoilingDragon/Desktop/2020-06-11 00h29m49s CSV export.csv
+2020-06-13 13h22m42s | EDITED single SKU = P9-WAEX-LHQ9, ASIN = B007VRGVC6
+2020-06-13 18h30m14s | EDITED single SKU = CW-H8SA-4BSP, ASIN = B000BQTCDO
+2020-06-13 18h30m39s | EDITED single SKU = CW-H8SA-4BSP, ASIN = B000BQTCDO
+2020-06-13 19h21m38s | MATCHED by csv C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/Screenshots/zoro screenshots/Fans-HVAC - Marto/10000-END - Laptop/notComp_DB.csv
+2020-06-13 19h34m35s | MATCHED by csv C:/Users/Sekirata/Desktop/Python/Clean Inventory v13/SchemaExcel2.csv
+2020-06-13 19h55m56s | MATCHED by csv C:/Users/Sekirata/Desktop/Python/Clean Inventory v13/SchemaExcel2.csv
+2020-06-13 20h48m54s | EDITED single SKU = Wrong Item, ASIN = B00208J60A
+2020-06-14 16h43m04s | EDITED single SKU = MQ-68OJ-L9L1, ASIN = B007VRGPJK
+2020-06-14 16h43m28s | EDITED single SKU = Wrong Item, ASIN = B007VRGPJK
+2020-06-14 18h56m51s | AssertionError ERROR IN CSV EDIT 3, row:B00DUFP7AK---->
+2020-06-14 18h57m36s | MATCHED by csv C:/Users/Sekirata/Desktop/Python/Clean Inventory v14/SchemaExcel2.csv
+2020-06-15 16h59m38s | EDITED single SKU = Wrong Item, ASIN = B07J4K2QCV
+2020-06-15 20h48m41s | MATCHED by csv C:/Users/Sekirata/Desktop/Python/Clean Inventory v14/SchemaExcel2.csv
+2020-06-15 20h57m43s | MATCHED by csv C:/Users/Sekirata/Desktop/Python/Clean Inventory v14/SchemaExcel2.csv
+2020-06-16 15h43m15s | ERROR IN CSV EDIT---->can only concatenate str (not "list") to str
+2020-06-16 15h44m47s | EDITED BY CSV D:/Googledrive/Inventory/Backupmain.csv
+2020-06-16 15h46m19s | EDITED BY CSV D:/Googledrive/Inventory/Backupmain.csv
+2020-06-16 15h55m59s | EDITED BY CSV D:/Googledrive/Inventory/Backupmain.csv
+2020-06-16 19h08m09s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-16 19h07m07s CSV SEARCH.csv
+2020-06-17 16h26m36s | ERROR IN CSV EDIT---->invalid literal for int() with base 10: ''
+2020-06-17 16h51m12s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-17 16h34m41s CSV SEARCH.csv
+2020-06-17 17h32m45s | EDITED single SKU = Wrong Item, ASIN = B01M1NXA8K
+2020-06-17 18h59m22s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-17 18h58m25s CSV SEARCH.csv
+2020-06-18 15h14m18s | EDITED single SKU = Wrong Item, ASIN = B007VR8AT8
+2020-06-19 16h04m23s | EDITED single SKU = Wrong Item, ASIN = B0746LG359
+2020-06-19 16h13m46s | EDITED single SKU = Wrong Item, ASIN = B07VP9FB8D
+2020-06-23 15h57m50s | EDITED single SKU = Wrong Item, ASIN = B000BHQ3FS
+2020-06-23 18h23m29s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-06-23 18h13m55s CSV SEARCH.csv
+2020-06-23 18h48m53s | MATCHED by csv C:/Users/Sekirata/Desktop/Python/Clean Inventory v16/SchemaExcel2.csv
+2020-06-23 19h04m14s | ERROR IN CSV EDIT---->invalid literal for int() with base 10: ''
+2020-06-23 23h29m33s | ERROR IN CSV EDIT---->invalid literal for int() with base 10: ''
+2020-06-23 23h30m26s | ERROR IN CSV EDIT---->invalid literal for int() with base 10: ''
+2020-06-23 23h39m17s | MATCHED by csv C:/Users/Sekirata/Desktop/Python/Clean Inventory v16/SchemaExcel2.csv
+2020-06-23 23h40m32s | MATCHED by csv C:/Users/Sekirata/Google Drive/UiPath/Daily Shits/Screenshots/zoro screenshots/Electrical & Lighting - DIDO/12000-16000 - DIDO_DONE/notComp_DB.csv
+2020-06-24 13h35m59s | EDITED single SKU = Wrong Item, ASIN = B07MH3FMLT
+2020-06-25 14h11m19s | EDITED single SKU = Wrong Item, ASIN = B0001H27WQ
+2020-06-25 22h56m00s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v16/SchemaExcel2.csv
+2020-06-25 23h14m50s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v16/SchemaExcel2.csv
+2020-06-25 23h18m59s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v16/SchemaExcel2.csv
+2020-06-25 23h23m05s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v16/SchemaExcel2.csv
+2020-06-25 23h48m50s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v16/SchemaExcel2.csv
+2020-06-28 12h33m39s | EDITED single SKU = Wrong Item, ASIN = B0044UMDGQ
+2020-06-28 14h20m43s | EDITED single SKU = Wrong Item, ASIN = B07QTCFLFK
+2020-06-28 14h50m44s | EDITED single SKU = Wrong Item, ASIN = B001AS6OYC
+2020-06-29 18h33m02s | EDITED single SKU = Wrong Item, ASIN = B00PSMNTY4
+2020-07-11 16h16m36s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-07-11 15h49m26s CSV SEARCH.csv
+2020-07-11 17h27m46s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-07-11 17h24m07s CSV SEARCH.csv
+2020-07-14 15h15m25s | EDITED single SKU = Red Brands, ASIN = B00BI9AM14
+2020-07-14 15h15m39s | EDITED single SKU = Red Brands, ASIN = B00EMDAI44
+2020-07-16 22h32m03s | EDITED single SKU = Wrong Item, ASIN = B00V9IBY20
+2020-07-16 23h27m38s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v16/SchemaExcel2.csv
+2020-07-17 15h54m50s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v16/SchemaExcel2.csv
+2020-07-17 21h53m21s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v17/SchemaExcel2.csv
+2020-07-17 22h09m12s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v17/1.csv
+2020-07-18 13h25m07s | EDITED single SKU = Wrong Item, ASIN = B00JPHKH2K
+2020-07-18 20h14m18s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v17/SchemaExcel2.csv
+2020-07-19 16h33m36s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v17/SchemaExcel2.csv
+2020-07-19 22h37m34s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-07-19 22h03m59s CSV SEARCH.csv
+2020-07-19 22h57m29s | MATCHED by csv C:/Users/Sekirata/Desktop/Pythin/Clean Inventory v17/SchemaExcel2.csv
+2020-07-19 23h32m01s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-07-19 22h58m20s CSV export.csv
+2020-07-20 00h25m42s | EDITED BY CSV C:/Users/Sekirata/Google Drive/Inventory/2020-07-19 23h43m31s CSV export.csv
+2020-07-21 23h14m47s | EDITED single SKU = Wrong Item, ASIN = B0002JT2K8
+2020-07-21 23h15m02s | EDITED single SKU = Wrong Item, ASIN = B0002JT2KI
+2020-07-21 23h57m17s | EDITED single SKU = Wrong Item, ASIN = B074VFRKZG
+2020-07-22 00h05m04s | EDITED single SKU = 2 items same BRANDMPN, ASIN = B079X5NCBX
+2020-07-24 16h38m18s | EDITED single SKU = Wrong Item, ASIN = B07VG9KC1P
+2020-07-24 17h06m10s | EDITED single SKU = Policy Violation, ASIN = B00KMTGVGG
+2020-07-24 17h06m46s | EDITED single SKU = Policy Violation, ASIN = B06ZXRZSJC
+2020-07-24 17h07m17s | EDITED single SKU = UPC Brand/MPN need to be matched to this ASIN, ASIN = Policy Violation
+2020-07-24 17h09m02s | EDITED single SKU = Policy Violation, ASIN = B009I2K722
+2020-07-24 17h11m32s | EDITED single SKU = Policy Violation, ASIN = B07PJMPSCF
+2020-07-24 17h12m09s | EDITED single SKU = Policy Violation, ASIN = B00D3NHSMO
+2020-07-24 17h12m37s | EDITED single SKU = Policy Violation, ASIN = B0002F6PJI
+2020-07-24 17h13m00s | EDITED single SKU = Policy Violation, ASIN = B000E4DFTK
+2020-07-24 17h15m42s | EDITED single SKU = Policy Violation, ASIN = B000E4DFTK
+2020-07-24 17h16m29s | EDITED single SKU = Policy Violation, ASIN = B0007Y0A6I
+2020-07-24 17h17m12s | EDITED single SKU = Policy Violation, ASIN = B0012QKQL4
